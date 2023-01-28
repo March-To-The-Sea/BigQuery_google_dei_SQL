@@ -1,0 +1,2 @@
+SELECT gender_women, gender_men
+FROM bigquery-public-data.google_dei.dar_region_non_intersectional_attrition_index
